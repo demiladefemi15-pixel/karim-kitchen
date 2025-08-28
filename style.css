@@ -1,5 +1,6 @@
 body{
-    background-color: aqua;
+    background-color: cornsilk;
+    padding: 20px;
 }
 
 
@@ -34,7 +35,6 @@ label{
 }
 
 .director{
-    width: 100%;
     background-color: bisque;
     display: flex;
     padding: 20px;
@@ -42,7 +42,4 @@ label{
     flex-wrap: wrap;
 }
 
-.dir_text{
-    width: 50%;
-}
 
