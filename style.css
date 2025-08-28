@@ -1,5 +1,5 @@
 body{
-    background-color: cornsilk;
+    background-color: aqua;
 }
 
 
@@ -12,3 +12,37 @@ label{
     width: 100px;
     
 }
+
+.par1{
+    background-color: blueviolet;
+    padding: 30px;
+}
+
+.par2{
+    background-color: blue;
+    padding: 30px;
+    color: white;
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: 60px;
+}
+
+.par3{
+    background-color: brown;
+    padding: 30px;
+}
+
+.director{
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    padding: 20px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+
+.dir_text{
+    width: 50%;
+}
+
